@@ -15,45 +15,68 @@ UI/UX Designer
 Figma
 
 ## Development
-Android development implemented by: Sujay Ghosh
+Android development implemented by: [Sujay Ghosh](https://github.com/CodeHunter1997)
 
-Original development repository:
-https://github.com/CodeHunter1997/Fixly-Local-Service-Booking
+Original development repository: [Fixly Local Service Booking](https://github.com/CodeHunter1997/Fixly-Local-Service-Booking)
 
 This repository contains the Android implementation of the UI/UX design created by me.
 
 
 ## App Screens
 
+
 ### Loading Screen
-![Loading](screenshots/1loading.png)
+<p align="center">
+  <img src="screenshots/1loading.png" width="350">
+</p>
 
 ### Splash Screen
-![Splash screen](screenshots/2splashscreen.png)
+<p align="center">
+  <img src="screenshots/2splashscreen.png" width="350">
+</p>
 
 ### Accounts Booking
-![Accounts](screenshots/3accounts.png)
+<p align="center">
+  <img src="screenshots/3accounts.png" width="350">
+</p>
 
-### Login 
-![Login](screenshots/4login.png)
+### login Screen
+<p align="center">
+  <img src="screenshots/4login.png" width="350">
+</p>
 
-### Home 
-![Home](screenshots/5home.png.png)
+### Home Screen
+<p align="center">
+  <img src="screenshots/5home.png" width="350">
+</p>
 
-### Service 
-![Service](screenshots/6service.png.png)
+### Service Booking
+<p align="center">
+  <img src="screenshots/6service.png" width="350">
+</p>
 
-### Time slot 
-![Timeslot](screenshots/7timeslot.png)
+### Time slot Screen
+<p align="center">
+  <img src="screenshots/7timeslot.png" width="350">
+</p>
 
-### Total Payable 
-![Total Payable](screenshots/8totalpayable.png.png)
+### Total Payable Screen
+<p align="center">
+  <img src="screenshots/8totalpayable.png" width="350">
+</p>
 
-### Dashboard
-![Dashboard](screenshots/9dashboard.png)
+###  Dashboard
+<p align="center">
+  <img src="screenshots/9dashboard.png" width="350">
+</p>
 
-### Payment 
-![Payment](screenshots/4login.png)
+### Payment Screen
+<p align="center">
+  <img src="screenshots/10payment.png" width="350">
+</p>
 
-### Service Provider Booking 
-![Service Provider Booking ](screenshots/11serviceproviderbookings.png)
+### Service Provider booking Screen
+<p align="center">
+  <img src="screenshots/11serviceproviderbookings.png" width="350">
+</p>
+
